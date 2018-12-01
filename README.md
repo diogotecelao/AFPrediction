@@ -1,2 +1,3 @@
 # The AFPrediction toolbox will be made publicly available after being presented in publications.
-# This toolbox performs automatically: ECG signal pre-processing, ECG delineation (R-peak, Q-wave and P-wave), feature extraction, metric calculation, and statistical analysis of significance (including correction for multiple comparisons). The uses can easily: 1) use their own data; and 2) add their own novel features and methods.
+# This toolbox performs automatically: ECG signal pre-processing, ECG delineation (R-peak, Q-wave and P-wave), feature extraction, metric calculation, and statistical analysis of significance (including correction for multiple comparisons). The users can easily: 1) use their own data; 2) add their own novel features and methods; 3) change the algorithms being used (e.g., delineate the ECG with other algorithms); and 4) extend the toolbox for other types of signals (e.g., PPG).
+# A user manual will be coming soon.
